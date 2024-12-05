@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm vineeth kumar milatari</h1>
-<h3 align="center">A passionate Cloud Engineer from USA</h3>
+<h3 align="center">A passionate Software Engineer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineeth08&label=Profile%20views&color=0e75b6&style=flat" alt="vineeth08" /> </p>
 
-- 🔭 I’m currently working on **AWS cloud Development**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Frame works,Databased**
 
